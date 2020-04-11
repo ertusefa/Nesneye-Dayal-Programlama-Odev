@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ERTUGRUL SEFA AY/1.0.0": {
+        "runtime": {
+          "ERTUGRUL SEFA AY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERTUGRUL SEFA AY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
